@@ -15,7 +15,6 @@ https://github.com/Weslley95/permissioncapability.git
 </pre>
 
 2. Allocate the folder, in the local moodle folder
-
 <pre>
 moodle/
 ├── ...                                

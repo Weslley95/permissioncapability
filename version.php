@@ -15,10 +15,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Local plugin "permissioncapability" - Version file
+ * Local plugin "permissioncapability"
  *
- * @package    local_permissioncapability <telefonica@telefonicaed.com.br>
- * @copyright  2021 Telefônica Educação Digital
+ * @package    local_permissioncapability 
+ * @copyright  2021 Weslley <weslleybezerra95@gmail.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
